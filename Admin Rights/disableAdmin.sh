@@ -1,4 +1,3 @@
-
 #!/bin/bash
 ####################################################################################
 # This is the removal script for the enableAdmin.sh script. It will remove the user from
