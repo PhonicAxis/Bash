@@ -1,4 +1,3 @@
-
 #!/bin/bash
 ##################################################################################################
 # This script will give the logged on user 60 minutes of Admin level access, from Jamf's Self Service.
